@@ -39,19 +39,19 @@ python main.py
 ## 🖥️ Screenshots
 
 **Main Game Window**  
-<img src="screenshots/main_window.png" width="300px">
+<img src="Screenshots/main_window.png" width="300px">
 
 **Dice Rolled Example**  
-<img src="screenshots/rolled_dice.png" width="300px">
+<img src="Screenshots/rolled_dice.png" width="300px">
 
 **History Window**  
-<img src="screenshots/history.png" width="300px">
+<img src="Screenshots/history.png" width="300px">
 
 **Statistics Window**  
-<img src="screenshots/stat.png" width="300px">
+<img src="Screenshots/stat.png" width="300px">
 
 **Exit Button**  
-<img src="screenshots/exit.png" width="300px">
+<img src="Screenshots/exit.png" width="300px">
 
 ---
 
