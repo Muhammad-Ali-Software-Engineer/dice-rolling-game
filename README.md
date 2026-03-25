@@ -22,7 +22,7 @@ A **Python GUI application** that simulates rolling a dice. Users can roll the d
 ### 2. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/dice-rolling-game.git
+git clone https://github.com/Muhammad-Ali-Software-Engineer/dice-rolling-game.git
 ```
 ### 3. Navigate to folder
 ```bash
