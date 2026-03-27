@@ -73,7 +73,7 @@ python main.py
 
 - **Linkedin:** https://linkedin.com/in/Muhammad-Ali-Software-Engineer
 
->Note: This project was the part of python programming internship at Arch Technologies a remote IT Consultating comapny.
+>Note: This project was the part of python programming internship at Arch Technologies a remote IT Consulting comapny.
 
 ---
 
