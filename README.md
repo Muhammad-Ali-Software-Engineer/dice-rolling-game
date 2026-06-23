@@ -67,7 +67,7 @@ python main.py
 ---
 
 ## 🏆 Author
-- Developed by <b>Mr. Muhammad Ali - BS Software Engineering Student</b>
+- Developed by <b>Mr. Muhammad Ali - BS Software Engineering Student (University of Gujrat)</b>
 
 - **GitHub:** https://github.com/Muhammad-Ali-Software-Engineer
 
